@@ -1,0 +1,9 @@
+{
+     "sonar":
+    {
+      "url" : "https://path-to-sonarQubeServer",
+      "username" : "sonar-username",
+       "private_token": "sonar-token",
+       "password" : "sonar-password"
+     }
+}
